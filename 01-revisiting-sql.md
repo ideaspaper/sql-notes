@@ -647,4 +647,6 @@ try {
 - [`sequelize.query`](https://sequelize.org/api/v6/class/src/sequelize.js~sequelize#instance-method-query)
 - [Wikipedia - ACID](https://en.wikipedia.org/wiki/ACID)
 - [ACID Explained: Atomic, Consistent, Isolated & Durable](https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/)
+- [ACID Properties in DBMS](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
+- [PostgreSQL - Transaction](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-transaction/)
 - [Sequelize - Transactions](https://sequelize.org/docs/v6/other-topics/transactions/)
