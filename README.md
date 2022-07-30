@@ -2,4 +2,5 @@
 
 Contents:
 
-1. [Revisiting SQL](./01-revisiting-sql.md)
+1. [Basics](./01-basics.md)
+1. [Revisiting SQL](./02-revisiting-sql.md)
