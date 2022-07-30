@@ -438,7 +438,7 @@ AND p.product_date BETWEEN '2021-01-01' AND '2021-03-31';
 
 1. Get the total records of products.
 2. Get the highest price of products.
-3. Get the total of stocks of all products.
+3. Get the total stock of all products.
 4. Get the total number of products for each category name.
 
 <details>
