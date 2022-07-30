@@ -73,15 +73,15 @@ sudo apt-get -y install postgresql
 
 - One-to-one (`1:1`)
 
-  <img src="./assets/one-to-one.png" alt="one-to-one" width="400"/>
+  <img src="./assets/one-to-one.jpg" alt="one-to-one" width="400"/>
 
 - One-to-many (`1:m`)
 
-  <img src="./assets/one-to-many.png" alt="one-to-many" width="400"/>
+  <img src="./assets/one-to-many.jpg" alt="one-to-many" width="400"/>
 
 - Many-to-many (`m:n`)
 
-  <img src="./assets/many-to-many.png" alt="many-to-many" width="700"/>
+  <img src="./assets/many-to-many.jpg" alt="many-to-many" width="700"/>
 
 ## Data Definition Language (DDL)
 
