@@ -202,7 +202,7 @@ sudo apt-get -y install postgresql
 <details>
 <summary>Answer</summary>
 
-<img src="./assets/example-1.png" alt="one-to-many" width="600"/>
+<img src="./assets/example.png" alt="one-to-many" width="600"/>
 
 ```sql
 CREATE TABLE IF NOT EXISTS users (
