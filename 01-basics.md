@@ -1,6 +1,6 @@
 # Database
 
-Table of contents:
+Contents:
 
 - [Installation](#installation)
   - [RDBMS](#rdbms)
