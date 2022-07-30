@@ -381,7 +381,7 @@ WHERE name = 'Kopi';
 [**`LIMIT` and `OFFSET`**](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-limit/)
 
 7. Get the first four products.
-8. Get the next four products from point 1.
+8. Get the next four products from point 7.
 
 [**Join**](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-joins/)
 
